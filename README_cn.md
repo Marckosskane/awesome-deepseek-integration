@@ -342,8 +342,8 @@
         <td>LawAgent是tensorbounce团队出品的知识库结合AI Agent的法律AI产品,拥有上千万官方法律相关知识库数据，用户可自定义知识库，专业模式结合DeepSeek-R1的推理能力应用在用户的法律分析、合同审查、文书生成、文件翻译等法律场景。</td>
      <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="https://github.com/jiqi136/DS-AI">多平台联网DeepSeek</a></td>
-<td>依托DeepSeek官方&阿里云&抖音火山,三通道AI引擎,持续进化智能。并且混合使用“联网搜索+深度思考”模式。</td>
+<td><a href="https://github.com/jiqi136/DS-AI">实时联网AI助手</a></td>
+<td>AI助手支持DeepSeek-V3.1接口直连最强Claude Code代码模型，无需网络中转即可使用（成本直降90%）。 支持图片、PDF文件读取及免费生成图片；可自定义接入其他AI模型；支持调用本地浏览器实时联网检索海量网页内容。另提供R1等免费模型选择。</td>
     </tr>
     <tr>
         <td width=80> <img src="docs/AlphaBot/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
@@ -369,6 +369,11 @@
         <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGen 是一款的跨端的 Markdown 笔记应用，致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。 </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
+        <td> i18n Agent是一款人工智能驱动的工具，旨在简化和自动化国际化（i18n）与本地化（l10n）工作流程。它通过先进的自然语言处理（NLP）和机器学习技术，帮助开发者、翻译人员和产品团队高效管理多语言内容——既能消除人工错误，又能加速全球部署进程。 </td>
     </tr>
 </table>
 
@@ -420,8 +425,8 @@
     </tr>
     <tr>
         <td width=80> <img src="https://raw.githubusercontent.com/Tencent/Youtu-agent/924aeeb6c49ee524b8bb4de2642a3dc84b7b86b9/docs/assets/mascot.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，采用开源模型即可实现例如数据分析、文件处理、深度研究等功能。 </td>
     </tr>
 </table>
 
@@ -463,6 +468,11 @@
         <td> <img src="https://raw.githubusercontent.com/OpenSPG/openspg/089188f3e7b0392221f5a8e8f1a3629b6352a6f9/LOGO.png" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/OpenSPG/KAG/blob/master/README_cn.md"> KAG </a> </td>
         <td> KAG 是基于 <a href="https://github.com/OpenSPG/openspg">OpenSPG</a> 引擎和大型语言模型的逻辑推理问答框架，用于构建垂直领域知识库的逻辑推理问答解决方案。KAG 可以有效克服传统 RAG 向量相似度计算的歧义性和 OpenIE 引入的 GraphRAG 的噪声问题。KAG 支持逻辑推理、多跳事实问答等。 </td>
+    </tr>
+   <tr>
+        <td width="80"> <img src="https://raw.githubusercontent.com/TencentCloudADP/youtu-graphrag/refs/heads/main/assets/logo.png" alt="Youtu-GraphRAG icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
+        <td>Youtu-GraphRAG是腾讯优图实验室开源的图检索增强生成新范式，通过Schema连接两个智能体，在图构建、索引和检索上实现垂直统一和认知闭环，以领先的落地级图构建与推理能力推动GraphRAG进入新的阶段。</td>
     </tr>
 </table>
 

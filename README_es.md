@@ -395,8 +395,9 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="https://github.com/jiqi136/DS-AI">DeepSeek multiplataforma conectado a la red</a></td>
-<td> Basado en DeepSeek Official, Alibaba Cloud y Douyin Volcano, el motor de IA tricanal impulsa una inteligencia en evolución constante. Además, emplea un modo híbrido de "búsqueda conectada a la red + pensamiento profundo".</td>
+<td><a href="https://github.com/jiqi136/DS-AI">Asistente de IA con conexión en tiempo real</a></td>
+<td> BEl asistente de IA admite conexión directa a la interfaz DeepSeek-V3.1 con el potente modelo de código Claude Code, permitiendo su uso sin intermediarios de red (reducción de costes del 90%). Soporta lectura de imágenes y archivos PDF con generación gratuita de imágenes; permite integración personalizada con otros modelos de IA; habilita búsqueda en tiempo real en la web mediante navegador local. Además, ofrece opciones gratuitas como el modelo R1.
+</td>
 	</tr>
     <tr>
     <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
@@ -412,6 +413,12 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGen es una aplicación multiplataforma de notas Markdown que se enfoca en utilizar inteligencia artificial para construir un puente entre la recopilación de información y la escritura, organizando conocimientos fragmentados en notas legibles. </td>
+    </tr>
+    </tr>
+        <tr>
+        <td> </td>
+        <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
+        <td> El i18n Agent es una herramienta impulsada por inteligencia artificial diseñada para simplificar y automatizar los flujos de trabajo de internacionalización (i18n) y localización (l10n). Al aprovechar el procesamiento avanzado de lenguaje natural (NLP) y el aprendizaje automático, ayuda a desarrolladores, traductores y equipos de productos a gestionar contenido multilingüe de manera eficiente, eliminando errores manuales y acelerando los despliegues globales. </td>
     </tr>
 </table>
 
@@ -487,8 +494,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         </tr>
     <tr>
         <td width=80> <img src="https://raw.githubusercontent.com/Tencent/Youtu-agent/924aeeb6c49ee524b8bb4de2642a3dc84b7b86b9/docs/assets/mascot.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> es un marco flexible y de alto rendimiento para construir, ejecutar y evaluar agentes autónomos. Más allá de encabezar los puntos de referencia (benchmarks), este marco ofrece capacidades potentes para agentes, como análisis de datos, procesamiento de archivos e investigación profunda, todo ello con modelos de código abierto. </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> es un marco flexible y de alto rendimiento para construir, ejecutar y evaluar agentes autónomos. Más allá de encabezar los puntos de referencia (benchmarks), este marco ofrece capacidades potentes para agentes, como análisis de datos, procesamiento de archivos e investigación profunda, todo ello con modelos de código abierto. </td>
     </tr>
 </table>
 
@@ -529,6 +536,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/OpenSPG/KAG/blob/master/README.md"> KAG </a> </td>
         <td> KAG es un marco de razonamiento lógico y preguntas y respuestas basado en el motor <a href="https://github.com/OpenSPG/openspg">OpenSPG</a> y modelos de lenguaje grandes, que se utiliza para construir soluciones de razonamiento lógico y preguntas y respuestas para bases de conocimiento de dominio vertical. KAG puede superar eficazmente la ambigüedad del cálculo de similitud vectorial tradicional de RAG y el problema de ruido introducido por GraphRAG mediante OpenIE. KAG admite razonamiento lógico y preguntas y respuestas de hechos de múltiples saltos, etc.</td>
     </tr>
+	<tr>
+    <td width="80"> <img src="https://raw.githubusercontent.com/TencentCloudADP/youtu-graphrag/refs/heads/main/assets/logo.png" alt="Icono de Youtu-GraphRAG" width="64" height="auto"/> </td>
+    <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
+    <td>Youtu-GraphRAG propone un nuevo paradigma de generación aumentada por recuperación en grafos (GraphRAG) que unifica verticalmente la construcción, indexación y recuperación de grafos mediante esquemas. Avanza el GraphRAG hacia aplicaciones de nivel empresarial, permitiendo una adaptación perfecta entre dominios con mínima intervención humana, mediante (i) una extracción dinámica acotada por esquemas; (ii) un algoritmo integral de detección de comunidades y (iii) una descomposición de consultas guiada por esquemas para la reflexión iterativa y el razonamiento.</td>
+</tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

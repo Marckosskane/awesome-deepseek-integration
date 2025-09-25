@@ -424,8 +424,9 @@
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-        <td><a href="https://github.com/jiqi136/DS-AI">多平臺聯網 DeepSeek</a></td>
-        <td> 利用 DeepSeek 官方、阿里雲、抖音火山，三通道 AI 引擎，持續進化智慧。此外，它還採用了「線上搜索+深度思考」的混合模式。</td>
+        <td><a href="https://github.com/jiqi136/DS-AI">即時連網AI助手</a></td>
+        <td> AI助手支援DeepSeek-V3.1介面直連最強Claude Code代碼模型，無需網路中轉即可使用（成本直降90%）。 支援圖片、PDF檔案讀取及免費生成圖片；可自訂接入其他AI模型；支援呼叫本地瀏覽器即時聯網檢索海量網頁內容。另提供R1等免費模型選擇。
+</td>
 	</tr>
     <tr>
         <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
@@ -446,6 +447,11 @@
         <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGen 是一款跨平台的 Markdown 筆記應用，致力於使用 AI 建立記錄和寫作的橋樑，將碎片化知識整理成一篇可讀的筆記。 </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
+        <td> i18n Agent是一款人工智能驱动的工具，旨在简化和自动化国际化（i18n）与本地化（l10n）工作流程。它通过先进的自然语言处理（NLP）和机器学习技术，帮助开发者、翻译人员和产品团队高效管理多语言内容——既能消除人工错误，又能加速全球部署进程。 </td>
     </tr>
 </table>
 
@@ -521,8 +527,8 @@
     </tr>
     <tr>
         <td width=80> <img src="https://raw.githubusercontent.com/Tencent/Youtu-agent/924aeeb6c49ee524b8bb4de2642a3dc84b7b86b9/docs/assets/mascot.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> 是一個靈活、高性能的框架，用於構建、運行和評估自主智能體。除了在基準測試中名列前茅，該框架還提供了強大的智能體能力，採用開源模型即可實現例如數據分析、文件處理、深度研究等功能。 </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> 是一個靈活、高性能的框架，用於構建、運行和評估自主智能體。除了在基準測試中名列前茅，該框架還提供了強大的智能體能力，採用開源模型即可實現例如數據分析、文件處理、深度研究等功能。 </td>
     </tr>
 </table>
 
@@ -564,6 +570,11 @@
         <td> <a href="https://github.com/OpenSPG/KAG/blob/master/README.md"> KAG </a> </td>
         <td> KAG 是一個基於 <a href="https://github.com/OpenSPG/openspg">OpenSPG</a> 引擎和大型語言模型的邏輯推理與問答框架，用於構建垂直領域知識庫的邏輯推理與問答解決方案。KAG 能夠有效克服傳統 RAG 向量相似性計算的模糊性以及 OpenIE 引入的 GraphRAG 噪音問題。KAG 支援邏輯推理和多跳事實問答等功能。</td>
     </tr>
+	<tr>
+    <td width="80"> <img src="https://raw.githubusercontent.com/TencentCloudADP/youtu-graphrag/refs/heads/main/assets/logo.png" alt="Youtu-GraphRAG 圖示" width="64" height="auto"/> </td>
+    <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
+    <td>Youtu-GraphRAG 提出了一種新的圖檢索增強生成範式，通過模式垂直統一了圖構建、索引和檢索。它將 GraphRAG 推向企業級應用，只需最少的人為干預即可實現無縫跨領域適應，具有：(i) 動態模式邊界提取；(ii) 全面的社群檢測算法；以及 (iii) 用於迭代反思和推理的模式指導查詢分解。</td>
+</tr>
 </table>
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>

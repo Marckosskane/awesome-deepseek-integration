@@ -310,8 +310,9 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     </tr>
     <tr>
         <td><img src="https://h1.appinn.me/file/1741929316827_21.png" alt="Icon" width="64" height="auto" /></td>
-<td><a href="https://github.com/jiqi136/DS-AI">マルチプラットフォーム対応ネットワークDeepSeek</a></td>
-<td> DeepSeek公式、アリクラウド、TikTok火山の3つのプラットフォームを連携させたトリプルチャネルAIエンジンにより、絶えず進化するインテリジェンスを実現。さらに「オンライン検索」と「深度思考」を融合したハイブリッドモードを採用しています.</td>
+<td><a href="https://github.com/jiqi136/DS-AI">リアルタイム接続可能なAIアシスタント</a></td>
+<td> AIアシスタントはDeepSeek-V3.1インターフェイスによる最強Claude Codeコードモデルの直連をサポートし、ネットワーク中継サーサーバーを経由せずに利用可能（コスト90%削減）。 画像・PDFファイルの読み込みと無料画像生成機能を搭載；他のAIモデルのカスタム接続が可能；ローカルブラウザを呼び出してリアルタイムWeb検索を実現。さらにR1など無料モデルも選択可能。
+</td>
 	</tr>
     <tr>
     <td><img src="docs/remio/assets/remio_icon.png" alt="Icon" width="64" height="auto" /></td>
@@ -332,6 +333,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
         <td> NoteGenは、AIを使用して記録と執筆を橋渡しし、断片化された知識を読みやすいノートに整理することに専念するクロスプラットフォームのMarkdownノートアプリケーションです。 </td>
+    </tr>
+        <tr>
+        <td> </td>
+        <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
+        <td> i18n Agentは、AIを駆使したツールであり、国際化（i18n）と現地化（l10n）のワークフローを効率化し自動化するように設計されています。先進的な自然言語処理（NLP）と機械学習技術を活用することで、開発者、翻訳者、製品チームが多言語コンテンツを効率的に管理できるよう支援し、人的ミスを排除しつつ全球展開の速度を加速します。 </td>
     </tr>
 </table>
 
@@ -377,8 +383,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         </tr>
     <tr>
         <td width=80> <img src="https://raw.githubusercontent.com/Tencent/Youtu-agent/924aeeb6c49ee524b8bb4de2642a3dc84b7b86b9/docs/assets/mascot.png" alt="Icon" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> </td>
-        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-agent </a> は、自律エージェントを構築、実行、および評価するための柔軟で高性能なフレームワークです。ベンチマークテストで最高の成績を収めるだけでなく、このフレームワークは、オープンソースモデルを使用して、データ分析、ファイル処理、詳細な調査などの強力なエージェント機能を提供します。 </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> </td>
+        <td> <a href="https://github.com/Tencent/Youtu-agent/"> Youtu-Agent </a> は、自律エージェントを構築、実行、および評価するための柔軟で高性能なフレームワークです。ベンチマークテストで最高の成績を収めるだけでなく、このフレームワークは、オープンソースモデルを使用して、データ分析、ファイル処理、詳細な調査などの強力なエージェント機能を提供します。 </td>
     </tr>
 </table>
 
@@ -421,6 +427,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/OpenSPG/KAG/blob/master/README_ja.md"> KAG </a> </td>
         <td>KAG は、<a href="https://github.com/OpenSPG/openspg">OpenSPG</a> エンジンと大規模言語モデルに基づく論理的推論質問応答フレームワークです。垂直ドメイン知識ベース用の論理的推論質問応答ソリューションを構築するために使用されます。 KAG は、従来の RAG ベクトル類似度計算の曖昧さと、OpenIE によって導入された GraphRAG のノイズ問題を効果的に克服できます。 KAG は、論理的推論、マルチホップの事実に基づく質問への回答などをサポートします。</td>
     </tr>
+	<tr>
+    <td width="80"> <img src="https://raw.githubusercontent.com/TencentCloudADP/youtu-graphrag/refs/heads/main/assets/logo.png" alt="Youtu-GraphRAGのアイコン" width="64" height="auto"/> </td>
+    <td> <a href="https://github.com/TencentCloudADP/Youtu-GraphRAG"> Youtu-GraphRAG </a> </td>
+    <td>Youtu-GraphRAGは、スキーマを通じてグラフの構築、インデックス化、検索を垂直的に統合する新しいグラフ検索拡張生成（GraphRAG）のパラダイムを提案します。これはGraphRAGをエンタープライズレベルアプリケーションへ進化させ、人的介入を最小限に抑えつつシームレスなクロスドメイン適応を可能にします。その特徴は、(i) 動的スキーマ境界抽出、(ii) 包括的なコミュニティ検出アルゴリズム、そして (iii) 反復的な反省と推論のためのスキーマ主導クエリ分解です。</td>
+</tr>
 </table>
 
 <p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
